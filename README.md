@@ -1,3 +1,3 @@
-# @pomological
+# Index of American Design bot
 
-This is the code that runs @pomological, called as a cronjob every 3 hours or so. It's a simple Python script that uploads an image and posts a description to Twitter. The file locations and descriptions, in the .csv here, are scraped variously from the USDA's National Agricultural Library's [online home for the Pomological Watercolor Collection](http://usdawatercolors.nal.usda.gov/pom/home.xhtml) and the [Wikimedia Commons category containing all the images](https://commons.wikimedia.org/wiki/Category:USDA_Pomological_Watercolors).
+This repository will be for the code that powers a Twitter bot that iterates through the Index of American Design collection. It's forked from the [@pomological](https://github.com/thisisparker/pombot) repo, which was one of the very first things I ever wrote, so I'm excited to apply a few years of learning to a similar problem.
